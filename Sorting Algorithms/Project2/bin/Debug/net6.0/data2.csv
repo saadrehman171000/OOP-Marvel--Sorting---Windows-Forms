@@ -1,0 +1,736 @@
+CUS 0xd40,September,23,Scientist,19114.12,3,4
+CUS 0xd40,October,24,Scientist,19114.12,3,4
+CUS 0xd40,November,24,Scientist,19114.12,3,4
+CUS 0xd40,December,24,Scientist,19114.12,3,4
+CUS 0x21b1,September,28,       ,34847.84,2,4
+CUS 0x21b1,October,28,Teacher,34847.84,2,4
+CUS 0x21b1,November,28,Teacher,34847.84,2,4
+CUS 0x21b1,December,28,Teacher,34847.84,2,4
+CUS 0x2dbc,September,35,Engineer,143162.64,1,5
+CUS 0x2dbc,October,35,Engineer,143162.64,1,5
+CUS 0x2dbc,November,35,Engineer,143162.64,1,5
+CUS 0x2dbc,December,35,Engineer,143162.64,1,5
+CUS 0xb891,September,55,Entrepreneur,30689.89,2,5
+CUS 0xb891,October,55,Entrepreneur,30689.89,2,5
+CUS 0xb891,November,55,Entrepreneur,30689.89,2,5
+CUS 0xb891,December,55,Entrepreneur,4148862,2,5
+CUS 0x1cdb,September,22,Developer,35547.71,7,5
+CUS 0x1cdb,October,22,Developer,35547.71,7,5
+CUS 0x1cdb,November,22,Developer,35547.71,7,5
+CUS 0x1cdb,December,22,Developer,35547.71,7,5
+CUS 0x95ee,September,31,Lawyer,73928.46,4,5
+CUS 0x95ee,October,32,Lawyer,73928.46,4,5
+CUS 0x95ee,November,1694,Lawyer,73928.46,4,5
+CUS 0x95ee,December,32,Lawyer,73928.46,4,5
+CUS 0x284a,September,34,Lawyer,131313.4,0,1
+CUS 0x284a,October,34,Lawyer,131313.4,0,1
+CUS 0x284a,November,34,Lawyer,131313.4,0,1
+CUS 0x284a,December,34,Lawyer,131313.4,0,1
+CUS 0x5407,September,30,Media Manager,34081.38,8,7
+CUS 0x5407,October,30,Media Manager,34081.38,8,7
+CUS 0x5407,November,31,Media Manager,34081.38,8,7
+CUS 0x5407,December,31,Media Manager,34081.38,8,7
+CUS 0x4157,September,24,Doctor,114838.41,2,5
+CUS 0x4157,October,24,Doctor,114838.41,2,5
+CUS 0x4157,November,914,Doctor,114838.41,2,5
+CUS 0x4157,December,24,Doctor,114838.41,2,5
+CUS 0xba08,September,45,Journalist,31370.8,1,6
+CUS 0xba08,October,45,Journalist,31370.8,1,6
+CUS 0xba08,November,45,Journalist,31370.8,1,6
+CUS 0xba08,December,45,Journalist,31370.8,1,6
+CUS 0xa66b,September,41,Teacher,33751.27,5,5
+CUS 0xa66b,October,41,       ,33751.27,5,5
+CUS 0xa66b,November,41,Teacher,33751.27,5,5
+CUS 0xa66b,December,41,Teacher,33751.27,5,5
+CUS 0xc0ab,September,33,Engineer,88640.24,3,6
+CUS 0xc0ab,October,33,Engineer,88640.24,3,6
+CUS 0xc0ab,November,33,       ,88640.24,3,6
+CUS 0xc0ab,December,33,Engineer,88640.24,3,6
+CUS 0x3e45,September,36,Entrepreneur,54392.16,6,4
+CUS 0x3e45,October,36,Entrepreneur,54392.16,6,4
+CUS 0x3e45,November,36,Entrepreneur,54392.16,6,4
+CUS 0x3e45,December,36,Entrepreneur,54392.16,6,4
+CUS 0x6c66,September,39,Manager,8701.545,6,5
+CUS 0x6c66,October,39,       ,8701.545,6,5
+CUS 0x6c66,November,40,       ,8701.545,6,5
+CUS 0x6c66,December,40,Manager,8701.545,6,5
+CUS 0xff4,September,37,Entrepreneur,25546.26,8,7
+CUS 0xff4,October,37,Entrepreneur,25546.26,8,7
+CUS 0xff4,November,37,       ,25546.26,8,7
+CUS 0xff4,December,37,Entrepreneur,25546.26,8,7
+CUS 0x33d2,September,31,Scientist,31993.78,6,6
+CUS 0x33d2,October,31,Scientist,31993.78,163,6
+CUS 0x33d2,November,31,Scientist,31993.78,6,6
+CUS 0x33d2,December,31,       ,31993.78,6,6
+CUS 0x6070,September,21,Accountant,92047.08,6,7
+CUS 0x6070,October,21,Accountant,92047.08,6,7
+CUS 0x6070,November,21,Accountant,92047.08,6,7
+CUS 0x6070,December,21,Accountant,92047.08,6,7
+CUS 0xfdb,September,46,Teacher,32284.62,6,7
+CUS 0xfdb,October,46,Teacher,32284.62,6,7
+CUS 0xfdb,November,46,       ,32284.62,6,7
+CUS 0xfdb,December,46,Teacher,32284.62,6,7
+CUS 0x3553,September,26,       ,97791.42,6,6
+CUS 0x3553,October,27,Musician,97791.42,6,6
+CUS 0x3553,November,27,Musician,97791.42,6,6
+CUS 0x3553,December,27,Musician,97791.42,6,6
+CUS 0x4100,September,32,Entrepreneur,19300.34,6,7
+CUS 0x4100,October,32,Entrepreneur,19300.34,6,7
+CUS 0x4100,November,32,Entrepreneur,19300.34,6,7
+CUS 0x4100,December,32,Entrepreneur,19300.34,6,7
+CUS 0x132f,September,41,Musician,19514.88,7,5
+CUS 0x132f,October,42,Musician,19514.88,7,5
+CUS 0x132f,November,42,Musician,19514.88,7,5
+CUS 0x132f,December,42,Musician,19514.88,7,5
+CUS 0xa16e,September,42,Media Manager,10183.015,7,5
+CUS 0xa16e,October,42,Media Manager,10183.015,7,5
+CUS 0xa16e,November,42,Media Manager,10183.015,7,5
+CUS 0xa16e,December,42,Media Manager,10183.015,7,5
+CUS 0xac86,September,20,Entrepreneur,106733.13,4,4
+CUS 0xac86,October,20,Entrepreneur,106733.13,4,4
+CUS 0xac86,November,20,Entrepreneur,106733.13,4,4
+CUS 0xac86,December,20,       ,106733.13,4,4
+CUS 0x5b48,September,32,Lawyer,12600.445,5,5
+CUS 0x5b48,October,32,Lawyer,12600.445,936,5
+CUS 0x5b48,November,32,Lawyer,12600.445,5,5
+CUS 0x5b48,December,32,Lawyer,12600.445,5,5
+CUS 0xa5f9,September,34,Mechanic,57983.12,9,8
+CUS 0xa5f9,October,35,Mechanic,57983.12,9,8
+CUS 0xa5f9,November,35,Mechanic,57983.12,9,8
+CUS 0xa5f9,December,35,Mechanic,57983.12,9,8
+CUS 0x4d43,September,48,Entrepreneur,20787.69,8,6
+CUS 0x4d43,October,48,Entrepreneur,20787.69,8,6
+CUS 0x4d43,November,48,Entrepreneur,20787.69,8,6
+CUS 0x4d43,December,49,Entrepreneur,20787.69,8,6
+CUS 0xb95f,September,30,Writer,34290.12,9,8
+CUS 0xb95f,October,30,Writer,34290.12,9,8
+CUS 0xb95f,November,30,Writer,34290.12,9,8
+CUS 0xb95f,December,30,Writer,34290.12,9,8
+CUS 0x3edc,September,33,       ,43070.24,3,3
+CUS 0x3edc,October,33,Accountant,43070.24,3,3
+CUS 0x3edc,November,33,Accountant,43070.24,3,3
+CUS 0x3edc,December,33,Accountant,43070.24,3,3
+CUS 0xbffe,September,41,Architect,28572.39,6,3
+CUS 0xbffe,October,41,Architect,28572.39,6,3
+CUS 0xbffe,November,41,Architect,28572.39,6,3
+CUS 0xbffe,December,41,Architect,28572.39,6,3
+CUS 0xb681,September,38,Manager,39641.54,10,211
+CUS 0xb681,October,38,Manager,39641.54,10,8
+CUS 0xb681,November,38,Manager,39641.54,10,8
+CUS 0xb681,December,38,Manager,39641.54,10,8
+CUS 0x9a71,September,55,Scientist,20186.02,1,5
+CUS 0x9a71,October,55,       ,20186.02,1,5
+CUS 0x9a71,November,55,Scientist,20186.02,1,5
+CUS 0x9a71,December,55,Scientist,20186.02,1,5
+CUS 0x6048,September,44,Musician,18627.64,7,7
+CUS 0x6048,October,44,Musician,18627.64,7,7
+CUS 0x6048,November,44,Musician,18627.64,7,7
+CUS 0x6048,December,44,Musician,18627.64,7,7
+CUS 0x95b5,September,22,Engineer,12986.745,4,3
+CUS 0x95b5,October,22,Engineer,12986.745,4,3
+CUS 0x95b5,November,22,Engineer,12986.745,4,3
+CUS 0x95b5,December,-500,Engineer,12986.745,4,3
+CUS 0x4004,September,44,Writer,58317,8,5
+CUS 0x4004,October,44,       ,58317,8,5
+CUS 0x4004,November,44,Writer,58317,8,5
+CUS 0x4004,December,44,Writer,58317,8,5
+CUS 0xb101,September,37,Scientist,42171.98,2,7
+CUS 0xb101,October,37,Scientist,42171.98,2,7
+CUS 0xb101,November,37,Scientist,42171.98,2,7
+CUS 0xb101,December,37,       ,42171.98,2,7
+CUS 0x9b94,September,36,Manager,71681.4,3,6
+CUS 0x9b94,October,36,Manager,71681.4,3,6
+CUS 0x9b94,November,36,Manager,71681.4,3,6
+CUS 0x9b94,December,36,Manager,71681.4,3,6
+CUS 0x4080,September,16,Mechanic,29469.98,705,7
+CUS 0x4080,October,16,Mechanic,29469.98,7,7
+CUS 0x4080,November,17,Mechanic,29469.98,7,182
+CUS 0x4080,December,17,Mechanic,29469.98,7,7
+CUS 0x706a,September,20,Engineer,72559.36,4,5
+CUS 0x706a,October,20,Engineer,72559.36,4,5
+CUS 0x706a,November,20,Engineer,72559.36,4,5
+CUS 0x706a,December,20,Engineer,72559.36,4,5
+CUS 0x42ac,September,37,Musician,15566.02,8,5
+CUS 0x42ac,October,37,Musician,15566.02,8,5
+CUS 0x42ac,November,37,Musician,15566.02,8,5
+CUS 0x42ac,December,37,Musician,15566.02,8,5
+CUS 0x571f,September,19,Developer,66567.32,5,7
+CUS 0x571f,October,19,Developer,66567.32,5,7
+CUS 0x571f,November,19,Developer,66567.32,5,7
+CUS 0x571f,December,19,Developer,66567.32,5,7
+CUS 0xb5ff,September,33,Media Manager,12909.895,5,5
+CUS 0xb5ff,October,3193,Media Manager,12909.895,5,5
+CUS 0xb5ff,November,33,Media Manager,12909.895,5,5
+CUS 0xb5ff,December,33,Media Manager,20601508,5,5
+CUS 0x6a1b,September,33,Accountant,30788.44,7,9
+CUS 0x6a1b,October,33,Accountant,30788.44,7,9
+CUS 0x6a1b,November,33,Accountant,30788.44,7,9
+CUS 0x6a1b,December,33,Accountant,30788.44,7,9
+CUS 0x9bc1,September,42,Architect,20574.47,6,3
+CUS 0x9bc1,October,42,Architect,20574.47,6,3
+CUS 0x9bc1,November,43,Architect,20574.47,6,3
+CUS 0x9bc1,December,43,Architect,20574.47,6,3
+CUS 0xc65,September,339,       ,148699.32,3,4
+CUS 0xc65,October,22,Lawyer,148699.32,3,4
+CUS 0xc65,November,22,Lawyer,148699.32,3,4
+CUS 0xc65,December,22,Lawyer,148699.32,3,4
+CUS 0xaedb,September,20,Musician,85554.03,4,2
+CUS 0xaedb,October,20,Musician,85554.03,4,2
+CUS 0xaedb,November,20,Musician,85554.03,4,2
+CUS 0xaedb,December,20,Musician,85554.03,4,2
+CUS 0x8e9b,September,16,Entrepreneur,55829.79,10,10
+CUS 0x8e9b,October,16,Entrepreneur,55829.79,10,914
+CUS 0x8e9b,November,16,Entrepreneur,55829.79,10,10
+CUS 0x8e9b,December,16,Entrepreneur,55829.79,10,10
+CUS 0x609d,September,27,Architect,14165.23,7,10
+CUS 0x609d,October,27,Architect,14165.23,7,10
+CUS 0x609d,November,27,Architect,14165.23,7,10
+CUS 0x609d,December,28,Architect,14165.23,7,10
+CUS 0x75c6,September,30,Teacher,87215.68,2,6
+CUS 0x75c6,October,30,Teacher,87215.68,2,6
+CUS 0x75c6,November,31,Teacher,87215.68,2,6
+CUS 0x75c6,December,31,Teacher,87215.68,2,6
+CUS 0x9b3c,September,43,Lawyer,81842.28,10,9
+CUS 0x9b3c,October,43,Lawyer,81842.28,10,9
+CUS 0x9b3c,November,43,Lawyer,81842.28,10,9
+CUS 0x9b3c,December,44,Lawyer,81842.28,10,9
+CUS 0x22a3,September,38,Doctor,95956.5,8,4
+CUS 0x22a3,October,39,Doctor,95956.5,8,4
+CUS 0x22a3,November,39,Doctor,95956.5,8,4
+CUS 0x22a3,December,39,Doctor,95956.5,8,4
+CUS 0xb14,September,26,Manager,49967.01,6,5
+CUS 0xb14,October,26,Manager,49967.01,6,5
+CUS 0xb14,November,26,Manager,49967.01,6,5
+CUS 0xb14,December,26,Manager,49967.01,6,5
+CUS 0xb986,September,14,Developer,39887.22,9,9
+CUS 0xb986,October,14,Developer,39887.22,9,9
+CUS 0xb986,November,15,Developer,39887.22,9,9
+CUS 0xb986,December,15,Developer,39887.22,9,9
+CUS 0xbe1b,September,44,Developer,14129.76,8,5
+CUS 0xbe1b,October,44,Developer,14129.76,8,5
+CUS 0xbe1b,November,44,Developer,14129.76,8,5
+CUS 0xbe1b,December,44,Developer,14129.76,8,5
+CUS 0x9ce6,September,43,       ,123732.32,4,3
+CUS 0x9ce6,October,43,Developer,123732.32,4,3
+CUS 0x9ce6,November,43,Developer,123732.32,4,3
+CUS 0x9ce6,December,43,Developer,123732.32,4,3
+CUS 0x6ffb,September,37,Writer,17251.38,6,1304
+CUS 0x6ffb,October,37,Writer,17251.38,6,3
+CUS 0x6ffb,November,37,Writer,17251.38,6,3
+CUS 0x6ffb,December,37,Writer,17251.38,6,3
+CUS 0x4315,September,23,Entrepreneur,36822.29,8,7
+CUS 0x4315,October,23,Entrepreneur,36822.29,8,7
+CUS 0x4315,November,23,Entrepreneur,36822.29,8,7
+CUS 0x4315,December,23,Entrepreneur,36822.29,8,7
+CUS 0x3f5b,September,25,Doctor,80108.31,5,3
+CUS 0x3f5b,October,25,Doctor,80108.31,5,3
+CUS 0x3f5b,November,25,       ,80108.31,5,3
+CUS 0x3f5b,December,26,Doctor,80108.31,5,3
+CUS 0x9d78,September,21,Scientist,69977.6,10,7
+CUS 0x9d78,October,21,Scientist,69977.6,845,7
+CUS 0x9d78,November,21,Scientist,69977.6,10,7
+CUS 0x9d78,December,21,Scientist,69977.6,10,7
+CUS 0x47db,September,16,Musician,78988.48,9,5
+CUS 0x47db,October,1203,Musician,78988.48,9,5
+CUS 0x47db,November,17,Musician,78988.48,9,5
+CUS 0x47db,December,17,Musician,78988.48,9,5
+CUS 0x8f17,September,-500,Journalist,41746.76,8,5
+CUS 0x8f17,October,46,Journalist,41746.76,8,5
+CUS 0x8f17,November,46,Journalist,41746.76,8,5
+CUS 0x8f17,December,2823,Journalist,41746.76,8,5
+CUS 0x7d0b,September,22,Media Manager,19981.6,10,8
+CUS 0x7d0b,October,22,Media Manager,19981.6,10,8
+CUS 0x7d0b,November,22,Media Manager,19981.6,10,8
+CUS 0x7d0b,December,22,Media Manager,19981.6,10,8
+CUS 0x7504,September,19,Lawyer,73737.36,7,3
+CUS 0x7504,October,19,Lawyer,73737.36,7,3
+CUS 0x7504,November,19,Lawyer,73737.36,7,3
+CUS 0x7504,December,19,Lawyer,73737.36,7,3
+CUS 0x774,September,34,Musician,88362.46,5,2
+CUS 0x774,October,34,Musician,88362.46,5,2
+CUS 0x774,November,34,Musician,88362.46,5,2
+CUS 0x774,December,34,       ,88362.46,5,510
+CUS 0x9f70,September,46,Entrepreneur,118248.6,5,1
+CUS 0x9f70,October,46,       ,118248.6,5,1
+CUS 0x9f70,November,46,Entrepreneur,118248.6,5,1
+CUS 0x9f70,December,46,Entrepreneur,118248.6,5,1
+CUS 0xab76,September,26,Scientist,60162.1,5,7
+CUS 0xab76,October,27,Scientist,60162.1,5,7
+CUS 0xab76,November,27,Scientist,60162.1,5,7
+CUS 0xab76,December,27,Scientist,60162.1,5,7
+CUS 0x5cdf,September,18,Musician,75273.24,8,6
+CUS 0x5cdf,October,18,Musician,75273.24,8,6
+CUS 0x5cdf,November,18,       ,75273.24,8,6
+CUS 0x5cdf,December,18,Musician,75273.24,8,6
+CUS 0x2184,September,-500,Media Manager,54820.89,8,7
+CUS 0x2184,October,18,Media Manager,54820.89,8,7
+CUS 0x2184,November,19,Media Manager,54820.89,8,7
+CUS 0x2184,December,19,Media Manager,54820.89,8,7
+CUS 0xa156,September,42,Entrepreneur,58674.66,8,5
+CUS 0xa156,October,43,Entrepreneur,58674.66,8,5
+CUS 0xa156,November,43,Entrepreneur,58674.66,8,5
+CUS 0xa156,December,43,Entrepreneur,58674.66,8,5
+CUS 0x74f2,September,31,Architect,30390.44,5,6
+CUS 0x74f2,October,31,Architect,30390.44,5,6
+CUS 0x74f2,November,31,Architect,30390.44,5,6
+CUS 0x74f2,December,31,Architect,30390.44,5,6
+CUS 0x308b,September,43,Doctor,45207.54,8,8
+CUS 0x308b,October,43,Doctor,45207.54,8,8
+CUS 0x308b,November,43,Doctor,45207.54,8,8
+CUS 0x308b,December,43,Doctor,45207.54,8,8
+CUS 0x2827,September,18,Scientist,144546.72,0,3
+CUS 0x2827,October,18,Scientist,144546.72,0,3
+CUS 0x2827,November,18,Scientist,144546.72,0,3
+CUS 0x2827,December,19,Scientist,144546.72,0,3
+CUS 0xa295,September,39,Engineer,30346.35,5,4
+CUS 0xa295,October,39,Engineer,30346.35,5,4
+CUS 0xa295,November,39,       ,30346.35,5,4
+CUS 0xa295,December,39,Engineer,30346.35,5,4
+CUS 0x6c2e,September,47,Mechanic,18681.465,2,3
+CUS 0x6c2e,October,47,Mechanic,18681.465,2,3
+CUS 0x6c2e,November,47,Mechanic,18681.465,2,3
+CUS 0x6c2e,December,47,Mechanic,18681.465,2,3
+CUS 0x384c,September,42,Scientist,9841.34,8,9
+CUS 0x384c,October,42,Scientist,9841.34,8,9
+CUS 0x384c,November,42,Scientist,9841.34,8,9
+CUS 0x384c,December,42,Scientist,10527110,8,9
+CUS 0x6cbb,September,35,Media Manager,72330.98,0,3
+CUS 0x6cbb,October,35,Media Manager,72330.98,0,3
+CUS 0x6cbb,November,35,Media Manager,72330.98,0,3
+CUS 0x6cbb,December,36,Media Manager,72330.98,1,4
+CUS 0x36ab,September,16,       ,43241.49,10,7
+CUS 0x36ab,October,16,Teacher,43241.49,1444,7
+CUS 0x36ab,November,16,Teacher,43241.49,10,7
+CUS 0x36ab,December,1643,Teacher,43241.49,10,7
+CUS 0x6649,September,20,Mechanic,34106.78,8,5
+CUS 0x6649,October,20,Mechanic,34106.78,8,5
+CUS 0x6649,November,20,Mechanic,34106.78,8,5
+CUS 0x6649,December,20,Mechanic,34106.78,8,5
+CUS 0x6856,September,25,Teacher,129067.59,142,3
+CUS 0x6856,October,25,Teacher,129067.59,1,3
+CUS 0x6856,November,25,Teacher,129067.59,1,3
+CUS 0x6856,December,25,Teacher,129067.59,1,3
+CUS 0xa27e,September,34,Architect,17001.34,6,5
+CUS 0xa27e,October,35,Architect,17001.34,6,5
+CUS 0xa27e,November,35,Architect,17001.34,6,5
+CUS 0xa27e,December,35,Architect,17001.34,6,5
+CUS 0x700d,September,21,Accountant,44719.17,6,6
+CUS 0x700d,October,21,Accountant,44719.17,6,6
+CUS 0x700d,November,21,Accountant,44719.17,6,6
+CUS 0x700d,December,21,Accountant,44719.17,6,6
+CUS 0x78e0,September,48,       ,17787.34,8,4
+CUS 0x78e0,October,48,Accountant,17787.34,8,4
+CUS 0x78e0,November,48,Accountant,17787.34,8,4
+CUS 0x78e0,December,48,Accountant,17787.34,8,4
+CUS 0x6794,September,42,Teacher,103353.06,3,3
+CUS 0x6794,October,42,Teacher,103353.06,3,3
+CUS 0x6794,November,42,Teacher,4602545,3,3
+CUS 0x6794,December,42,Teacher,103353.06,3,3
+CUS 0xe2c,September,39,Journalist,31021.24,7,7
+CUS 0xe2c,October,39,Journalist,31021.24,7,7
+CUS 0xe2c,November,39,Journalist,31021.24,7,7
+CUS 0xe2c,December,39,Journalist,31021.24,7,7
+CUS 0x36bb,September,37,       ,134978.24,8,5
+CUS 0x36bb,October,37,Journalist,134978.24,8,5
+CUS 0x36bb,November,8327,       ,134978.24,8,5
+CUS 0x36bb,December,37,Journalist,134978.24,8,5
+CUS 0xa77f,September,29,Writer,39800.12,7,5
+CUS 0xa77f,October,29,Writer,39800.12,7,5
+CUS 0xa77f,November,29,Writer,39800.12,7,5
+CUS 0xa77f,December,29,Writer,39800.12,7,5
+CUS 0x1e70,September,18,Manager,14841.35,6,5
+CUS 0x1e70,October,18,Manager,14841.35,6,5
+CUS 0x1e70,November,18,Manager,14841.35,6,5
+CUS 0x1e70,December,18,Manager,14841.35,6,5
+CUS 0xa335,September,22,Architect,66105.4,6,8
+CUS 0xa335,October,22,Architect,66105.4,6,8
+CUS 0xa335,November,22,Architect,66105.4,6,8
+CUS 0xa335,December,22,Architect,66105.4,6,8
+CUS 0x71e0,September,28,Mechanic,15398.95,1,1226
+CUS 0x71e0,October,28,Mechanic,15398.95,1,7
+CUS 0x71e0,November,29,Mechanic,15398.95,1,7
+CUS 0x71e0,December,29,Mechanic,15398.95,1,7
+CUS 0x4af0,September,18,Developer,27070.07,7,3
+CUS 0x4af0,October,18,Developer,27070.07,7,3
+CUS 0x4af0,November,19,Developer,27070.07,7,3
+CUS 0x4af0,December,19,       ,27070.07,7,3
+CUS 0x3861,September,53,Engineer,17992.775,3,5
+CUS 0x3861,October,53,Engineer,17992.775,3,5
+CUS 0x3861,November,53,Engineer,17992.775,3,5
+CUS 0x3861,December,53,Engineer,17992.775,3,5
+CUS 0x240d,September,56,Musician,139354.48,3,3
+CUS 0x240d,October,56,Musician,139354.48,3,3
+CUS 0x240d,November,56,Musician,139354.48,3,3
+CUS 0x240d,December,56,Musician,139354.48,3,3
+CUS 0x2652,September,22,Teacher,18305.25,2,1
+CUS 0x2652,October,23,Teacher,18305.25,2,1
+CUS 0x2652,November,23,Teacher,18305.25,2,1
+CUS 0x2652,December,23,       ,18305.25,2,1
+CUS 0x259a,September,26,Journalist,27865.26,4,3
+CUS 0x259a,October,26,Journalist,27865.26,4,3
+CUS 0x259a,November,26,Journalist,27865.26,4,3
+CUS 0x259a,December,26,Journalist,27865.26,4,3
+CUS 0x28b5,September,36,Architect,23404.86,6,5
+CUS 0x28b5,October,37,Architect,23404.86,6,5
+CUS 0x28b5,November,37,Architect,23404.86,6,5
+CUS 0x28b5,December,37,       ,23404.86,6,5
+CUS 0x8643,September,34,Musician,14205.09,7,10
+CUS 0x8643,October,34,Musician,14205.09,7,10
+CUS 0x8643,November,34,Musician,14205.09,7,10
+CUS 0x8643,December,34,Musician,14205.09,7,10
+CUS 0x12d5,September,28,Scientist,62320.56,9,9
+CUS 0x12d5,October,28,Scientist,62320.56,9,9
+CUS 0x12d5,November,28,Scientist,62320.56,9,9
+CUS 0x12d5,December,29,Scientist,62320.56,9,9
+CUS 0x3f04,September,25,Manager,43758.34,5,6
+CUS 0x3f04,October,6586,Manager,43758.34,5,6
+CUS 0x3f04,November,25,Manager,43758.34,5,6
+CUS 0x3f04,December,25,Manager,43758.34,5,6
+CUS 0x62c6,September,20,Writer,144881.68,3,4
+CUS 0x62c6,October,20,Writer,144881.68,3,4
+CUS 0x62c6,November,21,Writer,144881.68,3,840
+CUS 0x62c6,December,21,Writer,144881.68,3,4
+CUS 0x398d,September,39,Media Manager,108147.3,3,6
+CUS 0x398d,October,39,Media Manager,108147.3,3,6
+CUS 0x398d,November,39,Media Manager,108147.3,3,6
+CUS 0x398d,December,39,Media Manager,108147.3,3,6
+CUS 0x618b,September,28,Lawyer,17759.1,6,8
+CUS 0x618b,October,28,Lawyer,17759.1,6,8
+CUS 0x618b,November,28,Lawyer,17759.1,6,8
+CUS 0x618b,December,28,Lawyer,17759.1,6,1269
+CUS 0x7250,September,37,Teacher,85328.73,3,4
+CUS 0x7250,October,38,Teacher,85328.73,3,4
+CUS 0x7250,November,38,Teacher,85328.73,3,4
+CUS 0x7250,December,38,Teacher,85328.73,3,4
+CUS 0x6435,September,27,Writer,134321.44,3,5
+CUS 0x6435,October,27,Writer,134321.44,3,5
+CUS 0x6435,November,27,       ,134321.44,3,5
+CUS 0x6435,December,27,Writer,134321.44,3,5
+CUS 0xb6ad,September,24,Lawyer,61008,10,5
+CUS 0xb6ad,October,25,Lawyer,61008,10,5
+CUS 0xb6ad,November,25,Lawyer,61008,10,5
+CUS 0xb6ad,December,25,       ,61008,10,5
+CUS 0x7878,September,19,Developer,28665.76,7,3
+CUS 0x7878,October,20,Developer,28665.76,7,3
+CUS 0x7878,November,7014,Developer,28665.76,297,3
+CUS 0x7878,December,20,Developer,28665.76,7,3
+CUS 0x35b5,September,19,Lawyer,56803.71,7,5
+CUS 0x35b5,October,19,Lawyer,56803.71,7,5
+CUS 0x35b5,November,19,Lawyer,56803.71,7,5
+CUS 0x35b5,December,19,Lawyer,56803.71,7,5
+CUS 0x7a0f,September,32,Architect,38364.82,9,6
+CUS 0x7a0f,October,32,Architect,38364.82,9,6
+CUS 0x7a0f,November,32,Architect,38364.82,9,6
+CUS 0x7a0f,December,32,Architect,38364.82,9,6
+CUS 0x1c09,September,22,       ,66528.24,5,5
+CUS 0x1c09,October,22,       ,66528.24,5,5
+CUS 0x1c09,November,22,Lawyer,66528.24,5,5
+CUS 0x1c09,December,22,Lawyer,66528.24,5,5
+CUS 0x2c0d,September,55,Doctor,19403.405,1,7
+CUS 0x2c0d,October,55,Doctor,19403.405,1,7
+CUS 0x2c0d,November,55,       ,19403.405,1,7
+CUS 0x2c0d,December,56,Doctor,19403.405,1,7
+CUS 0x9073,September,19,Journalist,31122.79,7,5
+CUS 0x9073,October,20,Journalist,31122.79,7,5
+CUS 0x9073,November,20,Journalist,31122.79,7,5
+CUS 0x9073,December,20,       ,31122.79,7,5
+CUS 0x2813,September,20,Architect,15015.4,5,5
+CUS 0x2813,October,3391,Architect,15015.4,5,5
+CUS 0x2813,November,20,Architect,15015.4,5,5
+CUS 0x2813,December,20,       ,15015.4,5,5
+CUS 0xac93,September,34,Engineer,19777.05,5,3
+CUS 0xac93,October,34,Engineer,19777.05,5,3
+CUS 0xac93,November,35,       ,19777.05,5,3
+CUS 0xac93,December,35,Engineer,19777.05,5,3
+CUS 0x8c69,September,25,Musician,20188.02,4,3
+CUS 0x8c69,October,25,Musician,20188.02,4,3
+CUS 0x8c69,November,25,Musician,20188.02,4,3
+CUS 0x8c69,December,25,       ,20188.02,4,229
+CUS 0x365a,September,54,Scientist,41345.58,0,5
+CUS 0x365a,October,54,Scientist,41345.58,0,5
+CUS 0x365a,November,54,Scientist,41345.58,0,5
+CUS 0x365a,December,54,Scientist,41345.58,0,5
+CUS 0x7586,September,32,Engineer,55151.04,10,6
+CUS 0x7586,October,32,Engineer,55151.04,10,6
+CUS 0x7586,November,32,Engineer,55151.04,10,6
+CUS 0x7586,December,32,Engineer,55151.04,10,6
+CUS 0x9c67,September,39,Manager,10125936,6,6
+CUS 0x9c67,October,40,Manager,30536.62,6,6
+CUS 0x9c67,November,40,Manager,30536.62,6,6
+CUS 0x9c67,December,3765,Manager,30536.62,6,6
+CUS 0x7caf,September,29,Architect,147499.6,2,2
+CUS 0x7caf,October,29,Architect,7873905,2,2
+CUS 0x7caf,November,30,Architect,147499.6,2,2
+CUS 0x7caf,December,30,Architect,147499.6,2,2
+CUS 0xa2f7,September,43,Architect,20005.22,8,3
+CUS 0xa2f7,October,43,Architect,20005.22,8,3
+CUS 0xa2f7,November,43,Architect,20005.22,8,3
+CUS 0xa2f7,December,43,Architect,20005.22,8,3
+CUS 0x5e17,September,33,Scientist,19795.52,7,1354
+CUS 0x5e17,October,33,Scientist,19795.52,7,10
+CUS 0x5e17,November,33,Scientist,19795.52,7,10
+CUS 0x5e17,December,33,Scientist,19795.52,7,10
+CUS 0x1288,September,34,Doctor,60938.13,10,8
+CUS 0x1288,October,34,Doctor,60938.13,10,8
+CUS 0x1288,November,34,Doctor,60938.13,10,8
+CUS 0x1288,December,34,Doctor,60938.13,10,8
+CUS 0x567b,September,54,Manager,80396.86,5,7
+CUS 0x567b,October,55,Manager,80396.86,5,7
+CUS 0x567b,November,55,Manager,80396.86,1156,7
+CUS 0x567b,December,55,Manager,80396.86,5,7
+CUS 0x2365,September,43,Writer,57610.32,8,10
+CUS 0x2365,October,43,Writer,57610.32,8,10
+CUS 0x2365,November,43,Writer,57610.32,8,10
+CUS 0x2365,December,43,Writer,57610.32,8,10
+CUS 0x8a04,September,37,Journalist,18717.02,8,5
+CUS 0x8a04,October,37,Journalist,18717.02,8,5
+CUS 0x8a04,November,37,Journalist,18717.02,8,5
+CUS 0x8a04,December,37,Journalist,18717.02,8,5
+CUS 0x6015,September,17,Journalist,19163.22,3,7
+CUS 0x6015,October,18,Journalist,19163.22,3,7
+CUS 0x6015,November,18,Journalist,19163.22,3,7
+CUS 0x6015,December,18,Journalist,19163.22,3,7
+CUS 0x21e6,September,48,Media Manager,94554.87,2,6
+CUS 0x21e6,October,49,Media Manager,94554.87,2,6
+CUS 0x21e6,November,49,       ,94554.87,2,6
+CUS 0x21e6,December,49,Media Manager,94554.87,2,6
+CUS 0xa9a6,September,27,Musician,63536.98,4,5
+CUS 0xa9a6,October,28,Musician,63536.98,4,5
+CUS 0xa9a6,November,28,Musician,63536.98,4,5
+CUS 0xa9a6,December,-500,Musician,63536.98,4,5
+CUS 0x3187,September,40,Architect,9983.345,7,11
+CUS 0x3187,October,40,Architect,9983.345,7,11
+CUS 0x3187,November,40,Architect,9983.345,7,11
+CUS 0x3187,December,40,Architect,9983.345,7,11
+CUS 0x3fbf,September,15,Accountant,27796.42,6,5
+CUS 0x3fbf,October,15,Accountant,27796.42,6,5
+CUS 0x3fbf,November,15,Accountant,27796.42,6,5
+CUS 0x3fbf,December,15,Accountant,27796.42,6,5
+CUS 0x953c,September,30,Engineer,132872.72,3,3
+CUS 0x953c,October,30,Engineer,132872.72,3,3
+CUS 0x953c,November,30,Engineer,132872.72,3,3
+CUS 0x953c,December,30,Engineer,132872.72,3,3
+CUS 0x4aaa,September,42,Architect,140014.36,3,7
+CUS 0x4aaa,October,42,Architect,140014.36,3,7
+CUS 0x4aaa,November,42,Architect,140014.36,4,8
+CUS 0x4aaa,December,42,       ,140014.36,4,8
+CUS 0x2947,September,48,Accountant,37071.2,1636,6
+CUS 0x2947,October,48,Accountant,37071.2,1,6
+CUS 0x2947,November,48,Accountant,37071.2,1,6
+CUS 0x2947,December,48,       ,37071.2,1,6
+CUS 0x30e0,September,20,Entrepreneur,41735.55,0,3
+CUS 0x30e0,October,20,Entrepreneur,41735.55,0,3
+CUS 0x30e0,November,20,Entrepreneur,41735.55,0,3
+CUS 0x30e0,December,21,Entrepreneur,41735.55,0,3
+CUS 0xc3b7,September,38,Architect,40391.66,10,7
+CUS 0xc3b7,October,38,Architect,40391.66,10,7
+CUS 0xc3b7,November,38,Architect,40391.66,10,7
+CUS 0xc3b7,December,38,Architect,40391.66,10,7
+CUS 0x1e9b,September,19,Writer,7441.295,5,8
+CUS 0x1e9b,October,19,Writer,7441.295,5,8
+CUS 0x1e9b,November,19,Writer,7441.295,5,8
+CUS 0x1e9b,December,19,Writer,7441.295,5,8
+CUS 0x3b88,September,41,Scientist,19065.32,3,6
+CUS 0x3b88,October,41,Scientist,19065.32,3,6
+CUS 0x3b88,November,41,Scientist,19065.32,3,6
+CUS 0x3b88,December,41,Scientist,19065.32,3,6
+CUS 0xae51,September,46,Entrepreneur,24585.55,3,4
+CUS 0xae51,October,47,Entrepreneur,24585.55,3,4
+CUS 0xae51,November,47,Entrepreneur,24585.55,3,4
+CUS 0xae51,December,47,Entrepreneur,24585.55,3,4
+CUS 0xb7ef,September,27,Manager,15013.73,7,4
+CUS 0xb7ef,October,27,Manager,15013.73,7,4
+CUS 0xb7ef,November,4472,Manager,15013.73,7,4
+CUS 0xb7ef,December,27,Manager,15013.73,7,4
+CUS 0xb288,September,44,Journalist,126006.68,4,3
+CUS 0xb288,October,44,Journalist,126006.68,4,3
+CUS 0xb288,November,44,Journalist,126006.68,4,3
+CUS 0xb288,December,44,Journalist,126006.68,4,3
+CUS 0x7a22,September,49,Developer,102885.32,3,5
+CUS 0x7a22,October,49,Developer,102885.32,3,5
+CUS 0x7a22,November,50,Developer,102885.32,3,5
+CUS 0x7a22,December,50,Developer,102885.32,3,5
+CUS 0x9495,September,39,Teacher,34212.01,6,5
+CUS 0x9495,October,39,Teacher,34212.01,6,5
+CUS 0x9495,November,39,Teacher,34212.01,6,5
+CUS 0x9495,December,39,Teacher,34212.01,6,5
+CUS 0x64f1,September,26,Entrepreneur,118487.16,8,4
+CUS 0x64f1,October,26,Entrepreneur,118487.16,8,4
+CUS 0x64f1,November,26,Entrepreneur,118487.16,8,4
+CUS 0x64f1,December,27,Entrepreneur,118487.16,8,4
+CUS 0x6749,September,26,Mechanic,77418.52,7,9
+CUS 0x6749,October,26,Mechanic,77418.52,7,9
+CUS 0x6749,November,27,Mechanic,77418.52,7,9
+CUS 0x6749,December,27,Mechanic,77418.52,736,9
+CUS 0xc1c9,September,46,Architect,24199.24,3,7
+CUS 0xc1c9,October,46,Architect,24199.24,3,7
+CUS 0xc1c9,November,4022,Architect,24199.24,3,7
+CUS 0xc1c9,December,46,Architect,24199.24,3,7
+CUS 0x230a,September,48,Musician,28587.29,4,644
+CUS 0x230a,October,48,Musician,28587.29,4,1
+CUS 0x230a,November,48,Musician,28587.29,4,1
+CUS 0x230a,December,48,Musician,28587.29,4,1
+CUS 0x8928,September,32,Manager,16578.115,3,5
+CUS 0x8928,October,32,Manager,16578.115,3,5
+CUS 0x8928,November,32,Manager,16578.115,3,5
+CUS 0x8928,December,32,Manager,16578.115,3,5
+CUS 0x682f,September,20,Writer,74647.4,6,5
+CUS 0x682f,October,21,Writer,74647.4,6,5
+CUS 0x682f,November,21,Writer,74647.4,6,5
+CUS 0x682f,December,21,Writer,74647.4,6,5
+CUS 0x4831,September,43,Mechanic,34766.06,0,1
+CUS 0x4831,October,43,Mechanic,34766.06,521,1
+CUS 0x4831,November,44,Mechanic,34766.06,0,1
+CUS 0x4831,December,44,Mechanic,34766.06,0,1
+CUS 0x32a5,September,23,Engineer,16852.635,4,6
+CUS 0x32a5,October,23,Engineer,16852.635,4,6
+CUS 0x32a5,November,23,Engineer,16852.635,4,6
+CUS 0x32a5,December,23,Engineer,16852.635,4,6
+CUS 0x710f,September,21,Scientist,33502.1,7,9
+CUS 0x710f,October,21,Scientist,33502.1,7,9
+CUS 0x710f,November,21,Scientist,33502.1,7,9
+CUS 0x710f,December,21,Scientist,33502.1,7,9
+CUS 0xa54b,September,28,Media Manager,91690.53,2,6
+CUS 0xa54b,October,28,Media Manager,91690.53,2,6
+CUS 0xa54b,November,28,Media Manager,91690.53,2,6
+CUS 0xa54b,December,28,Media Manager,91690.53,2,6
+CUS 0x564a,September,37,Entrepreneur,30502.54,8,7
+CUS 0x564a,October,37,Entrepreneur,30502.54,8,7
+CUS 0x564a,November,37,Entrepreneur,30502.54,8,7
+CUS 0x564a,December,37,Entrepreneur,30502.54,8,7
+CUS 0xb000,September,21,Media Manager,30272.61,3,1365
+CUS 0xb000,October,21,Media Manager,30272.61,3,1092
+CUS 0xb000,November,21,Media Manager,30272.61,3,3
+CUS 0xb000,December,21,       ,30272.61,3,3
+CUS 0x2584,September,31,Accountant,59971.42,8,5
+CUS 0x2584,October,31,Accountant,59971.42,8,5
+CUS 0x2584,November,31,Accountant,59971.42,8,5
+CUS 0x2584,December,32,Accountant,59971.42,8,1289
+CUS 0x5a3f,September,33,Accountant,42220.39,1,4
+CUS 0x5a3f,October,33,Accountant,42220.39,1,4
+CUS 0x5a3f,November,4576,Accountant,42220.39,1,4
+CUS 0x5a3f,December,33,       ,42220.39,1,4
+CUS 0xc341,September,51,       ,43581.13,4,3
+CUS 0xc341,October,51,Architect,43581.13,4,3
+CUS 0xc341,November,51,Architect,43581.13,4,3
+CUS 0xc341,December,52,Architect,43581.13,4,3
+CUS 0x1a96,September,50,Media Manager,28681.38,3,5
+CUS 0x1a96,October,50,Media Manager,28681.38,3,5
+CUS 0x1a96,November,50,Media Manager,28681.38,3,5
+CUS 0x1a96,December,50,Media Manager,28681.38,3,5
+CUS 0xb7a1,September,34,Doctor,35376.32,8,3
+CUS 0xb7a1,October,34,Doctor,35376.32,8,3
+CUS 0xb7a1,November,34,Doctor,35376.32,8,3
+CUS 0xb7a1,December,34,Doctor,35376.32,8,3
+CUS 0x31d5,September,49,Doctor,15488.885,0,4
+CUS 0x31d5,October,49,Doctor,15488.885,0,4
+CUS 0x31d5,November,49,Doctor,15488.885,0,4
+CUS 0x31d5,December,49,Doctor,15488.885,0,4
+CUS 0x45f7,September,26,Entrepreneur,19853.35,7,4
+CUS 0x45f7,October,26,Entrepreneur,19853.35,7,4
+CUS 0x45f7,November,26,Entrepreneur,19853.35,7,4
+CUS 0x45f7,December,27,Entrepreneur,19853.35,7,4
+CUS 0x6617,September,33,Writer,115643.01,3,7
+CUS 0x6617,October,33,Writer,115643.01,3,7
+CUS 0x6617,November,33,Writer,115643.01,3,7
+CUS 0x6617,December,33,       ,115643.01,3,7
+CUS 0x5b80,September,45,Journalist,7512.225,7,7
+CUS 0x5b80,October,45,Journalist,7512.225,7,7
+CUS 0x5b80,November,45,Journalist,7512.225,7,7
+CUS 0x5b80,December,45,Journalist,7512.225,7,7
+CUS 0xa548,September,-500,Mechanic,35161.46,10,8
+CUS 0xa548,October,16,Mechanic,35161.46,10,8
+CUS 0xa548,November,16,Mechanic,35161.46,10,8
+CUS 0xa548,December,16,Mechanic,35161.46,10,8
+CUS 0xb9ea,September,34,Writer,9133.045,6,7
+CUS 0xb9ea,October,34,Writer,9133.045,6,7
+CUS 0xb9ea,November,34,Writer,9133.045,6,7
+CUS 0xb9ea,December,34,Writer,9133.045,6,7
+CUS 0x54c0,September,23,Entrepreneur,19283.47,10,8
+CUS 0x54c0,October,23,Entrepreneur,19283.47,10,8
+CUS 0x54c0,November,23,Entrepreneur,19283.47,10,8
+CUS 0x54c0,December,23,       ,19283.47,10,8
+CUS 0x258b,September,24,       ,66502.76,0,6
+CUS 0x258b,October,24,       ,66502.76,0,6
+CUS 0x258b,November,24,Scientist,66502.76,0,6
+CUS 0x258b,December,24,Scientist,66502.76,0,6
+CUS 0x4bb4,September,34,Media Manager,9444.795,7,8
+CUS 0x4bb4,October,34,Media Manager,9444.795,7,8
+CUS 0x4bb4,November,34,Media Manager,9444.795,7,8
+CUS 0x4bb4,December,34,Media Manager,9444.795,7,8
+CUS 0x8e75,September,47,Doctor,70112.78,1,7
+CUS 0x8e75,October,47,Doctor,70112.78,1,7
+CUS 0x8e75,November,47,Doctor,70112.78,1,7
+CUS 0x8e75,December,47,Doctor,70112.78,1,7
+CUS 0xf95,September,18,Entrepreneur,15604.56,9,5
+CUS 0xf95,October,18,       ,15604.56,9,5
+CUS 0xf95,November,18,Entrepreneur,15604.56,9,5
+CUS 0xf95,December,18,Entrepreneur,15604.56,9,5
+CUS 0x4028,September,37,Manager,68935.26,1,5
+CUS 0x4028,October,37,Manager,68935.26,1,5
+CUS 0x4028,November,37,Manager,68935.26,1,5
+CUS 0x4028,December,37,Manager,68935.26,1,5
+CUS 0x8db8,September,43,Doctor,31807,8,3
+CUS 0x8db8,October,43,Doctor,31807,8,3
+CUS 0x8db8,November,43,Doctor,31807,8,3
+CUS 0x8db8,December,43,Doctor,31807,8,3
+CUS 0x1e63,September,37,       ,10025.2,10,10
+CUS 0x1e63,October,37,Musician,10025.2,10,10
+CUS 0x1e63,November,37,Musician,10025.2,10,10
+CUS 0x1e63,December,37,Musician,10025.2,10,10
+CUS 0x4948,September,39,Media Manager,64036.88,8,4
+CUS 0x4948,October,39,Media Manager,64036.88,8,4
+CUS 0x4948,November,39,       ,64036.88,8,4
+CUS 0x4948,December,39,Media Manager,64036.88,8,4
+CUS 0xc37b,September,30,Teacher,9783.245,8,6
+CUS 0xc37b,October,30,Teacher,9783.245,8,6
+CUS 0xc37b,November,30,Teacher,9783.245,8,6
+CUS 0xc37b,December,30,Teacher,9783.245,8,6
+CUS 0xfcc,September,22,Accountant,86522.72,8,5
+CUS 0xfcc,October,22,Accountant,86522.72,8,5
+CUS 0xfcc,November,22,Accountant,86522.72,8,5
+CUS 0xfcc,December,23,Accountant,86522.72,8,5
+CUS 0x64ce,September,22,Lawyer,124419.66,3,4
+CUS 0x64ce,October,22,Lawyer,124419.66,3,4
+CUS 0x64ce,November,22,Lawyer,124419.66,3,4
+CUS 0x64ce,December,22,Lawyer,124419.66,3,4
+CUS 0x9574,September,50,Entrepreneur,15606.515,3,4
+CUS 0x9574,October,50,Entrepreneur,15606.515,3,4
+CUS 0x9574,November,51,Entrepreneur,15606.515,3,4
+CUS 0x9574,December,51,Entrepreneur,15606.515,3,4
+CUS 0xbc88,September,25,Developer,28230.92,8,6
+CUS 0xbc88,October,25,       ,28230.92,8,6
+CUS 0xbc88,November,25,Developer,28230.92,8,6
+CUS 0xbc88,December,25,Developer,28230.92,8,6
+CUS 0x661b,September,29,Developer,10623.765,6,3
+CUS 0x661b,October,29,Developer,10623.765,6,3
+CUS 0x661b,November,29,Developer,10623.765,6,3
+CUS 0x661b,December,29,Developer,10623.765,6,3
+CUS 0xc51,September,19,Teacher,11970.955,8,4
+CUS 0xc51,October,19,Teacher,11970.955,8,4
+CUS 0xc51,November,19,Teacher,11970.955,8,4
+CUS 0xc51,December,19,Teacher,11970.955,8,4
+CUS 0x9536,September,3355,Manager,112362.76,4,4
+CUS 0x9536,October,41,Manager,112362.76,4,4
+CUS 0x9536,November,41,Manager,112362.76,4,4
+CUS 0x9536,December,-500,Manager,112362.76,4,4
+CUS 0xc5a0,September,20,Manager,33335.24,1,6
+CUS 0xc5a0,October,20,Manager,33335.24,1,6
+CUS 0xc5a0,November,20,Manager,33335.24,1,6
+CUS 0xc5a0,December,21,Manager,33335.24,1,6
+CUS 0xb282,September,32,Manager,131577.84,2,3
+CUS 0xb282,October,32,Manager,131577.84,2,3
+CUS 0xb282,November,32,Manager,131577.84,2,3
+CUS 0xb282,December,32,Manager,131577.84,2,3
+CUS 0xb9b8,September,49,Entrepreneur,10850224,2,5
+CUS 0xb9b8,October,8034,Entrepreneur,32314.44,2,5
+CUS 0xb9b8,November,49,Entrepreneur,32314.44,2,5
+CUS 0xb9b8,December,49,Entrepreneur,32314.44,2,5
+CUS 0x3e81,September,20,Manager,7477136,0,5
+CUS 0x3e81,October,20,       ,61235.6,0,5
+CUS 0x3e81,November,20,Manager,61235.6,0,5
+CUS 0x3e81,December,20,Manager,61235.6,0,423
+CUS 0x3702,September,40,Journalist,19078.93,5,7
+CUS 0x3702,October,40,Journalist,19078.93,5,7
+CUS 0x3702,November,40,Journalist,19078.93,5,7
+CUS 0x3702,December,4610,Journalist,19078.93,5,7
