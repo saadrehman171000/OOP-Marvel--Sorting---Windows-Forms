@@ -22,7 +22,10 @@ jobs:
         dotnet-version: 6.0.x
     - name: Restore dependencies
       run: dotnet restore
+      working-directory: ./path/to/your/project  # Specify the correct path to your project
     - name: Build
       run: dotnet build --no-restore
+      working-directory: ./path/to/your/project  # Specify the correct path to your project
     - name: Test
       run: dotnet test --no-build --verbosity normal
+      working-directory: ./path/to/your/project  # Specify the correct path to your project
